@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+A simple REACT calculator using UseState Hook
+This Project was done for AltSchool Africa Second Semester Assignment 1.
+
+This calculator makes use of two useStates. This first is used to receive users input from the calculator, The second is used to store and display the inputs.
+
+Feel free to make modifications to this project.
+Thank you
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
